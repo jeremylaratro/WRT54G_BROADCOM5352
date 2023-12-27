@@ -1,17 +1,17 @@
 # WRT54G_BROADCOM5352
 WRT54G - Broadcom 5352 UrJtag Configuration File
 
-Add these files to 
-Instructions:
-Make a new directory in:
+### Instructions:
+1. Make a new directory in:
 ```
 /usr/local/share/urjtag/broadcom/ --> /usr/local/share/urjtag/broadcom/bcm5352
 ```
-Then, add:
+2. Add the following files to new directory:
 bcm5352
 STEPPINGS
 
-Lastly, overwrite:
+3. Modify PARTS file:
+ - Either replace the existing file:
 ```
 usr/local/share/urjtag/broadcom/PARTS
 ```
