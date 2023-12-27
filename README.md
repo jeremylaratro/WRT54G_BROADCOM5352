@@ -19,8 +19,11 @@ with the included file or edit it and add:
 ```
 0101001101010100        bcm5352         BCM5352
 ```
+
 ----------
-Or, just run this:
+
+Or, just run this and it will make all changes needed:
+
 ```bash
 git clone https://github.com/jeremylaratro/WRT54G_BROADCOM5352.git ;
 cd WRT54G_BROADCOM5352 ;
