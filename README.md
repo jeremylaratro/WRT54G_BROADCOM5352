@@ -19,3 +19,13 @@ with the included file or edit it and add:
 ```
 0101001101010100        bcm5352         BCM5352
 ```
+----------
+Or, just run this:
+```bash
+git clone https://github.com/jeremylaratro/WRT54G_BROADCOM5352.git ;
+cd WRT54G_BROADCOM5352 ;
+sudo mkdir /usr/local/share/urjtag/broadcom/bcm5352 ;
+sudo mv bcm5352 /usr/local/share/urjtag/broadcom/bcm5352/ ;
+sudo mv STEPPINGS /usr/local/share/urjtag/broadcom/bcm5352/ ;
+sudo mv PARTS /usr/local/share/urjtag/broadcom/ ;
+```
