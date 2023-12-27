@@ -1,6 +1,9 @@
 # WRT54G_BROADCOM5352
 WRT54G - Broadcom 5352 UrJtag Configuration File
 
+I did not write this configuration file, I found it while practicing hardware/JTAG attack methodologies on a WRT54G router after finding that the necessary part was missing from UrJtag and digging through Google to find one.
+https://sourceforge.net/p/urjtag/discussion/682993/thread/711c21f5/
+
 ### Instructions:
 1. Make a new directory in:
 ```
